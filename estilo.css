@@ -28,7 +28,7 @@ a {
 }
 
 #conteudo{
-    background: #0b0138;
+    background: #137c9cde;
     padding: 10px;
     
     
@@ -55,6 +55,7 @@ h1 {
 #whats {
     float: right;
     display: block;
+    color: #ffffff;
     
  }
 
