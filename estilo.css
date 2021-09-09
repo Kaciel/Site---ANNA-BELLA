@@ -1,5 +1,5 @@
 body{
-    background-color: #d2d2C1 url('IMG/fundo.png');
+    background-color: #d2d2C1 url('IMG/fundo\ -\ Copia.png');
     font: 16px Arial, Helvetica, Sans-serif;
 }
 
@@ -29,9 +29,22 @@ a {
 
 #rodapé{
     text-align: center;
+    background-color: crimson;
+    padding: 2px;
+    color: aliceblue;
 }
 
 h1 {
     color: #828271;
     font-size: 1.2;
 }
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
+
+#whats {
+    float: right;
+    display: block;
+    
+ }
