@@ -1,30 +1,37 @@
 body{
-    background-color: #d2d2C1 url('IMG/fundo\ -\ Copia.png');
+    background-image: url(IMG/juntas.png);
     font: 16px Arial, Helvetica, Sans-serif;
-}
+    color: #ffffff;
+}    
 
 #principal{
-    border: 1px solid red;
+    
     width: 900px;
+    margin: auto;
+    
     
 }
 
 #menu {
-    background: #c5c5b2;
-    border: 1px solid red;
+    background: #ffffff;
+    color: crimson ;
     padding: 18px;
+    text-align: center;
+    
 }
 
 a {
-    color: #4b566a;
+    color: crimson;
     text-decoration: none;
     font-weight: bold;
     padding: 5px;
 }
 
 #conteudo{
-    background: #e8e8d9;
+    background: #0b0138;
     padding: 10px;
+    
+    
 }
 
 #rodapé{
@@ -35,12 +42,14 @@ a {
 }
 
 h1 {
-    color: #828271;
+    color: #ffffff;
     font-size: 1.2;
 }
 
 .img-campanha{
     border: 10px solid #c3c3ae;
+   
+    
 }
 
 #whats {
@@ -48,3 +57,9 @@ h1 {
     display: block;
     
  }
+
+ #contato{
+    text-align: center;
+ }
+
+ 
